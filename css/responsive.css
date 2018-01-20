@@ -1,0 +1,87 @@
+@media screen and (max-width: 991px) {
+
+	.ads {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 379px) {
+	h1 {
+		margin-top: 50px;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.rest h2 {
+	    top: 25%;
+	    left: 27%;
+	}
+	#viewmore {
+	    position: absolute;
+	    top: 62%;
+	    left: 41%;
+	}
+	#sm {
+	    position: absolute;
+	    top: 35%;
+	    left: 35%;
+	}
+}
+
+@media screen and (max-width: 990px) {
+	.rest h2 {
+	    top: 25%;
+	    left: 20%;
+	}
+	#viewmore {
+	    position: absolute;
+	    top: 62%;
+	    left: 40%;
+	}
+	#sm {
+	    position: absolute;
+	    top: 35%;
+	}
+}
+
+@media screen and (min-width: 426px) and (max-width: 767px) {
+	.rest h2 {
+	    top: 25%;
+	    left: 9%;
+	}
+	#viewmore {
+	    position: absolute;
+	    top: 62%;
+	    left: 38%;
+	}
+	#sm {
+	    position: absolute;
+	    top: 35%;
+	    left: 28%;
+	}
+
+}
+
+@media screen and (max-width: 425px) {
+	.rest h2 {
+	    top: 25%;
+	    left: 1%;
+	}
+	#viewmore {
+	    position: absolute;
+	    top: 62%;
+	    left: 34%;
+	}
+	#sm {
+	    position: absolute;
+	    top: 35%;
+	    left: 18%;
+	}
+}
+
+@media screen and (max-width: 380px) {
+	.no-overlap {
+	    margin-top: 20px;
+	    padding-top: 80px;
+	}
+}
